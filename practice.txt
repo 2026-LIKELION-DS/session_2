@@ -1,4 +1,4 @@
-[2차 세션] Git Branch 협업 & GitHub Tip
+[2차 세션] Git Branch 협업 & GitHub Tip🦁
 
 - 이름:
 - 파트:
